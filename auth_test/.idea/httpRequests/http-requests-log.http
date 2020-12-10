@@ -1,0 +1,61 @@
+GET http://localhost:8080/upload
+
+<> 2020-12-10T013805.404.txt
+
+###
+
+GET http://localhost:8080/upload
+
+<> 2020-12-10T013627.404.txt
+
+###
+
+GET http://localhost:8080/upload
+
+<> 2020-12-10T013607.404.txt
+
+###
+
+GET http://localhost:8080/test
+
+<> 2020-12-10T013552.200.json
+
+###
+
+GET http://localhost:8080
+
+<> 2020-12-10T013442.404.txt
+
+###
+
+GET http://localhost:8080/upload
+
+<> 2020-12-10T013427.404.txt
+
+###
+
+GET http://localhost:8080/test
+
+<> 2020-12-10T013412.200.json
+
+###
+
+GET http://localhost:8080
+Accept: application/json
+
+<> 2020-12-09T103054.404.txt
+
+###
+
+GET http://localhost:8080/test
+Accept: application/json
+
+<> 2020-12-09T093536.200.json
+
+###
+
+GET http://localhost:8080/test
+Accept: application/json
+
+###
+
